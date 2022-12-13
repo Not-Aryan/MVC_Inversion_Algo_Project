@@ -1,0 +1,2 @@
+N_knotpoints N_gridCells
+1066 1000
